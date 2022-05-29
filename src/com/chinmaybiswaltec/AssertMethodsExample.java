@@ -74,7 +74,4 @@ public class AssertMethodsExample {
 		String s2Arr[] = {"A","B","C"};
 		assertArrayEquals(s1Arr, s2Arr);
 	}
-	
-	
-
 }
